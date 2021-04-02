@@ -6,5 +6,5 @@
             ----> create export_xlsx in root folder
 ## Example 
    
-to_json('persons.xlsx')
-to_xlsx(jsonfile,'newfilename')
+ to_json('persons.xlsx')
+ to_xlsx(jsonfile,'newfilename')
